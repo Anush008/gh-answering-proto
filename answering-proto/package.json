@@ -1,0 +1,22 @@
+{
+  "name": "answering-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ignore": "^5.2.4",
+    "langchain": "^0.0.96"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "tsx": "^3.12.7"
+  }
+}
